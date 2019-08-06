@@ -1,0 +1,4 @@
+DOWN.
+REP 2 "FORW 1. FORW 1."
+% Produces error due to the next character not being an instruction or a comment
+f
